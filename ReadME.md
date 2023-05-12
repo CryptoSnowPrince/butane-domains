@@ -1,0 +1,10 @@
+===========207.246.84.114===========
+cosmos.walletconnect.cryptosnowprince.com
+evm.walletconnect.cryptosnowprince.com
+cosmos.explorer.cryptosnowprince.com
+evm.explorer.cryptosnowprince.com
+cosmos.rpc1.cryptosnowprince.com
+evm.rpc1.cryptosnowprince.com
+===========54.153.25.28===========
+cosmos.rpc2.cryptosnowprince.com
+evm.rpc2.cryptosnowprince.com
